@@ -8,3 +8,4 @@ After forking this repository, you can make some changes to the project, and sub
 
 Thibaud is here to completely puke on what's been done! 
 
+Also here's my second modif bro
